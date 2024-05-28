@@ -26,6 +26,8 @@ print for connecting established research codes to modern software packages writ
 on the implementation of the interface library and show numerical applications in earth system modeling. These are
 controlled by a Fortran code and employ Trixi.jl’s distributed CPU compute capabilities.
 
+## Poster
+The poster can be downloaded [here](poster.pdf).
 
 ## Reproducibility
 
